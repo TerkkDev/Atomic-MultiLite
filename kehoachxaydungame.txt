@@ -1,0 +1,93 @@
+xin chào,đây là Atomic MultiLite,ở đây có 4 chế độ chơi chính
+ - Chế độ Evolution & Survival:đây là chế độ bạn(player)bắt đầu từ sinh vật đơn bào tiến hoá lên sinh vật đa bào,lên nền văn minh,
+khi bạn chơi chế độ này,bạn sẽ được cho một thế giưới có các thông số ngẫu nhiên,nhiệm vụ của bạn là vào thế giới đó,tiên hoá
+,thiết lập nền văn minh riêng,dần dần khám phá thế giới đó,muốn phá đảo một thế giưới như vậy,bạn cần tạo ra mọt nền văn minh
+hoàn chỉnh,đây là các yếu tốc bắt buộc để có một nền văn minh:
+   + độ bao phủ(200 điểm):thế giới của bạn phải do một sinh vật có độ bao phủ trên toàn cầu
+   + kiến thức(120 điểm): sinh vật đó phải có một số kiến thức về thế giới đó
+   + công trình,kiến trúc,sản phẩm(100 điểm):có phát minh về kiến trúc,hình học,...
+   + ngôn ngữ(130 điểm):phải có ngôn ngữ giao tiếp được,boa nhiêu ngôn ngữ đều được
+   + công nghệ(200 điểm):có nhiều hơn 2 phát minh công nghệ thay đổi toàn cầu
+như vậy bạn sẽ nhận được một nền văn minh,và cững sẽ nhận được thành tựu "Nền văn Minh hiện đại",nếu các chỉ số trong các tiêu chí lớn hơn chỉ
+số thực của bạn vào tầm 15 điểm(mỗi tiêu chí),bạn cững sẽ nhận được thành tựu "nền văn minh cổ đại"
+
+ - chế độ Build & Create:muốn mở khoá được chế độ này,bạn phải đạt được thành tự "Nền Văn Minh Hiện Đại",khi vào chế dộ này,bạn là chúa tất cả
+đều do bạn tạo nên,bạn có thể định đoạt năng lượng trong vũ trụ,hình dáng,định luât vật lý,bạn có thể toạ ra một thế giới với các tiêu chí sau:
+   + sự sống(200 điểm):thế giới của bạn phải có ít nhất một hành tinh có sự sống
+   + kiến thức(100 điểm):sự sống của bạn phỉa có một chút hiểu biết về thế giới của bạn
+   + vật lý(200 điểm):có vật lý riêng,năng lượng,định luật do bạn tạo ra
+   + quan hệ nhân quả(200 điểm):cái này bắt buộc phải CÓ
+khi đáp ứng được,bạn sẽ nhận được thành tựu "Đấng Sáng Tạo"
+
+ - chế độ Versus:muốn mở khoá được chế độ này,bạn cần phải đạt được thành tựu "Đấng Sáng Tạo",ở trong đây bạn sẽ mang thành phẩm trong thế giới
+của mình đi solo với người chơi khác,chủ yếu sẽ có 2 cái,một là hệ thống sức mạnh(nói trắng ra là cầm thứu mình tạo đi đấm với thứ người khác tạo)
+và hệ thống vật lý(được tính điểm bằng độ hữu ích và có thể sống)khi thắng được 5 trận,bạn sẽ được
+   + nói rõ hon về mảng hệ thống vật lý:khi vào mảng đấu này,người chơi sẽ mang định luật mình tự thiết kế ra đấu trường với tư cách là người xem,game sẽ cho
+   2 con sinh vật và đặt từng con trong từng định lậut của các player,lưu ý 2 con đều như nhau không hơn không kém,mỗi con sẽ phỉa tiến hoá và sinh tồn trong 8p đầu
+   nếu chết(chết được tính là tuyệt chủng hoặc không thể tiến hoá ra hình hài thích hợp)sẽ được tính là thua,hết 8p sẽ cho 2 con đấu,con nào thắng thì định luật mà con
+   đó sinh tồn cũng sẽ thắng,lưu ý 2 con có kxy năng tấn công y hệt nhau,sẽ tấn công từng đợt.
+thành tựu "Kẻ Thách Thức".Nếu bạn thắng được 50 trận,bạn được thành tựu "Quái nhân" và được 5 xu tiến hoá.
+
+ - chế độ Forums & Products:muốn mở khoá được chế độ này,bạn phải đạt được 2 thành tựu là,"Kẻ Thách Thức" và "Đa Chiều"(thành tựu được mở khoá khi tiêu chí chiều được 200 điểm
+và các tiêu chí kiến thưucs,công nghệ đạt được điểm là 200 trở lên),ở chế độ này,bạn có thể đăng bài,chia sẻ sản phẩm của mình.Khi bạn chia sẻ sản phẩm của mình lần đầu
+bạn sẽ được thành tựu "Chia sẻ".
+
+ - chế độ Chaos & Madnes:muốn mở khoá chế độ này,bạn cần thành tựu "Chia sẻ" và thành tựu "Quái nhân", trong chế độ này,bạn sẽ được chơi trong 2 chế độ ngẫu nhiên lần lượt là:
+  + evolutor chaos & Creator God:đây là sự kết hợp giữa 2 chế độ Evolution & Survivial và Build & Create,trong đây bạn sẽ thay đổi môt thứ ngẫu nhiên trong mỗi 2 phút:
+   + đổi thân phận:bạn có thể đổi thân phận từ người tiến hoá thành đấng sáng tạo với tỉ lệ 30%,nếu bạn là đấng,bạn cngx có thể bị thay đổi thân phận thành người
+   tiến hoá với tỉ lệ 70%.
+   + hiêu ứng ngẫu nhiên:bạn có thể nhận một hiệu ứng ngẫu nhiên như:mù loà,năng suất,chậm chạp,sát thương,...
+   + địa hình,vị trí ngẫu nhiên:bạn có thể bị dịch chuyển đến nới khác hoặc địa hình bị thay đổi ngẫu nhiên
+   + định luật ngẫu nhiên:mười phút cuối trận,định luật sẽ thay đổi ngẫu nhiên,khi định luật thay đổi,nó sẽ hiện danh sách các định luật ms trên màn hình
+   trừ một số cái.
+  yêu cầu để chiến thắng,trong thân phận người tiến hoá hoặc đấng sáng tạo,bạn phải lấy được 20 loại vật chất khác nhau và tìm ra định luật không được công bố.
+  Tiếp theo,đây là cách để vào vòng đặc biệt trong đây,phải có ít nhất một người đạt được thân phận "sinh vật đa vũ trụ",yêu cầu để trở thành sinh vật đó là:
+   + được làm chúa và tạo ra thử thách riêng cho mình rồi phá đảo nó 5 lần trong thân phận người tiến hoá.
+   + tấn công lên 5 chúa khác nhau theo mỗi 2 phút.
+   + tìm được loại vật chất đặc biệt.
+   + hoàn thành yêu cầu trước mười phút cuối trận.
+  Lúc này sẽ lập tức vào vòng đặc biệt,sinh vật đa vũ trụ có khả năng biến người khác thành đồng loại của mình với cái giá là phải tìm được một vật chất đặc
+  biệt tương ứng,sinh vật đa vũ trụ có thể tấn công chúa và lấy máu của chúa(cũng là yêu cầu để đồng hoá người khác),sinh vật đa vũ trụ có thể tuỳ ý dịch
+  chuyển đến bất cứ đâu,tiếp theo đây là yêu cầu thắng:
+   + phe người tiến hoá:tấn công sinh vật đa vũ trụ và thành công lấy được ít nhất một vật chất đặc biệt và tìm ra đinh luật được ẩn dấu
+   + phe chúa: cố gắng phòng thủ để không bị sinh vật đa vũ trụ lấy máu,đồng thời phải đoạt lại ít nhất 2 vật chất đặc biệt.
+   + phe sinh vật đa vũ trụ:có ít nhất mười đồng loại,lấy được ít nhất 500 điểm máu của chúa,và hoàn thành nhiệm vụ "đoạt lấy vũ trụ"
+  nếu thắng,phe tháng sẽ đồng loạt nhận được thành tựu "Vũ Trụ Biến số" và được 5 xu tiến hoá.
+  + chế độ Deal Forums & Versus Steal:đây là sự kết hợp giữa 2 chế độ Forums & Products và Versus,trong đây bạn phải đạt được các yêu cầu lần lượt là:
+   + giao dịch thành công giao dịch trên 50 đ
+   + cướp thành công một giao dịch của người khác.
+   + vào khu vực tranh chấp giao dịch và chiến thắng.
+  nếu có 3 người chơi trong khu tranh chấp sẽ kích hoạt hỗn chiến,lcus này không có luật lệ,thương nhân sẽ là người xem trên khán đài và có quyền quyên góp
+  sức mạnh cho một người chơi bất kỳ với cái giá là giá trị của giao dịch sẽ giảm tuỳ vào quyên góp cao hay thấp.
+  
+  yêu cầu sẽ dần dần ngày càng khó,bạn phải đạt được số giao dịch trên 50 đ là 200 thì bạn sẽ thắng,đây là chế độ tranh chấp,giao dịch,cướp và chiến đấu.
+  Tiếp theo,đây là cách để vào vòng đặc biệt trong chế độ này,phải có ít nhất một người chơi đạt được thân phận "Quản Lý Thị Trường",yêu cầu
+  để làm quản lý là:
+   + cướp thành công 20 giao dịch trên 90đ.
+   + chốt thành công 20 giao dịch trên 60d.
+   + hoàn thành yêu cầu trước mười phút cuối trận.
+  Lúc này sẽ ngay lập tức vào vòng đặc biệt,Quản lý có khả năng yêu cầu thu thuế với 10%,và có khả năng điều khiển tư tưởng,khi sử dụng khả năng này,60% thương
+  nhân trên bản đòo sẽ do quản lý điều khiển,điều kiện để thắng vòng đặc biệt là người chơi phải là quản lý(bằng cách giết quản lý hoặc làm quản lý ngay từ đầu)
+  và có số điểm trên 500.
+  thắng được vòng đặc biệt này,bạn được thành tựu "Thị Trường Biến Số" và được 5 xu tiến hoá.
+ nếu bạn thắng một trong 2 chế độ này,bạn sẽ được thành tựu "Người chơi thích nghi" và được 5 xu tiến hoá.
+ nếu bạn thắng được vòng đặc biệt của một trong 2 chế độ thì bạn được thành tựu "Biến Số Đặc Biệt" và được 2 xu tiến hoá.
+ 
+
+Tiếp theo,đây là cách để tiến hoá,đầu tiên,chúng ta sẽ có điểm tiến hoá,muốn được điểm tiến hoá,bạn phải làm những điều sau:
+ - sinh tồn:sinh tồn một ngày,bạn được một điểm.
+ - đồng hoá:xung quanh bạn sẽ có một số sinh vật bạn có thể đồng hoá,khi bạn đồng hoá,bạn đực một điểm.
+ - khám phá:khám phá ra môi trường mới,bạn sẽ nhận được 2 điểm.
+ - sống sót:nếu bạn có thể sống sót qua thiên tai,hoặc một cuộc đại tuyệt chủng,bạn sẽ nhận được thành tựu "Kẻ Sống sót",và sẽ nhận được 160 điểm.
+ - thành tựu:mỗi lần bạn hoàn thành một thành tựu,bạn sẽ nhận được 20 điểm.
+điểm tiến hoá có thể giúp bạn tiến hoá,có 2 loại tiến hoá:
+ - tiến hoá đặc thù:bạn có thể tiến hoá ra da giày hơn,khả năng hít nhiều hơn,nhìn xa hơn,phân chia mạnh hơn.
+ - tiên hoá môi trường:nếu bạn đủ 200 điểm,bạn sẽ có thể tự tạo ngoại hình tiến hoá của mình.
+
+Tiếp theo,đây là loại tiền tệ trong Atomic MultiLite,nó có tên là evolution coins(xu tiến hoá),bạn có thể đổi xu tiến hoá khi đang chơi bằng cách bấm vào nút
+đổi xu,tỉ giá đối hoái là:
+ - 10 điểm tiến hoá = 1 xu tiến hoá.
+xu tiến hoá không thể dùng trong trận,xu tiến hoá có thể dùng trong shop,xu tiến hoá có thể mua skin,phù hiệu,màu tên,...
+
+Tiếp theo đây là một số cái thứ đặc biệt trong đây:
+3 loại vật chất đặc biệt là thứ được ấy ngẫu nhiên trnt 23 loại vật chất đặc biệt trong dữ liệu của game,còn có một vật chất mà trận nào cũng tồn tại nhưng ít người biết
