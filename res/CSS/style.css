@@ -1,0 +1,41 @@
+/* Màu nền tối huyền bí cho Menu */
+.root-panel {
+    -fx-background-color: #191923;
+}
+
+/* Kiểu dáng cho tiêu đề chữ Neon */
+.game-title {
+    -fx-font-family: "Segoe UI", Arial, sans-serif;
+    -fx-font-size: 28px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #64c8da; /* Màu xanh sáng neon */
+    -fx-padding: 0 0 40 0;  /* Tạo khoảng cách phía dưới tiêu đề */
+}
+
+/* Trạng thái BÌNH THƯỜNG của nút bấm */
+.menu-button {
+    -fx-background-color: #656565;
+    -fx-text-fill: black;
+    -fx-font-family: "Segoe UI", Arial, sans-serif;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-background-radius: 0px; /* Vuông đét sắc lẹm */
+    
+    /* Đã sửa mã màu Hex chuẩn 6 ký tự (#00fff5 xanh neon hoặc #ffffff trắng) */
+    -fx-border-color: #ffffff; 
+    -fx-border-width: 1px 1px 1px 3px;
+    -fx-cursor: hand;
+}
+
+/* Hoạt ảnh HOVER khi RÊ CHUỘT */
+.menu-button:hover {
+    -fx-background-color: #2c2c2c;
+    -fx-text-fill: #ffffff; 
+}
+
+/* Hoạt ảnh PRESSED khi CLICK GIỮ chuột */
+.menu-button:pressed {
+    -fx-background-color: #1a1a1a;
+    -fx-scale-x: 0.97;
+    -fx-scale-y: 0.97;
+}
